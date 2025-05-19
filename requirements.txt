@@ -3,6 +3,6 @@ jupyter
 pandas
 matplotlib
 seaborn
-numpy
+numpy<2
 scikit-learn
-tensorflow-gpu
+tensorflow-gpu==2.10
